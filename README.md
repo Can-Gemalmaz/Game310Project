@@ -1,0 +1,2 @@
+Sadece üstüne mausu götürerek resim çizmeye başlayabilirisniz. Daha resetleme veya farklı renkler koyamadım onları da ekleyeceğim. Şu anda grid 12x12 sonrasında büyütüp küçültebiliriz. Kitap işi tam istediğim gibi değilmiş ama biraz çakma dursa da böyle bir şey belki yapabiliriz. kİtap çevirme animasyonlarında çok daha kötü gözükebilir emin değilim.
+Şu anda oyundan tek çıkış yöntemi alt f4 tuşu fakta settings eklediğimde onu da düzelticem. Şu anda sadece bir boyama şeyi olsun diye yaptım. Yaklaştırma falan gibi mekanikleri de ekleyeceğim sonrasında.
